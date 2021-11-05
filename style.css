@@ -28,9 +28,21 @@ a {
 .myname {
   font-size: 50px;
   font-family: fantasy;
+  font-weight: bolder;
 }
 .lion {
   width: 330px;
   height: 250px;
   padding-left: 50px;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+.cont2 {
+  margin-top: 60px;
+  width: 1000px;
+}
+.aboutme {
+}
+.me {
+  padding-left: 25px;
 }
