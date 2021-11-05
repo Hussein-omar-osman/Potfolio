@@ -24,8 +24,13 @@ a {
   margin-top: 50px;
   justify-content: center;
   width: 1000px;
-  background-color: aliceblue;
 }
 .myname {
-  font-size: 20px;
+  font-size: 50px;
+  font-family: fantasy;
+}
+.lion {
+  width: 330px;
+  height: 250px;
+  padding-left: 50px;
 }
