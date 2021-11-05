@@ -1,22 +1,28 @@
 a {
- text-decoration: none;
- color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .first {
- height: 60px;
- align-items: center;
+  height: 80px;
+  align-items: center;
 }
 .fs2 .fs3 .fs4 {
-font-size: 12px;
+  font-size: 12px;
 }
 .fs1 {
- margin-left: 15px;
- font-size: 20px;
+  margin-left: 15px;
+  font-size: 20px;
 }
 .fs4 {
- margin-right: 80px;
+  margin-right: 80px;
 }
 .fs3 .fs4 {
- margin-left: 5px;
+  margin-left: 5px;
+}
+.cont1 {
+  margin-top: 50px;
+  justify-content: center;
+  width: 1000px;
+  background-color: aliceblue;
 }
