@@ -10,7 +10,7 @@ This is a potfolia website that i have create to talk about my self like my educ
 
 ## Setup/Installation Requirements
 
-- Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
+- Clone the repo {git clone https://github.com/Hussein-omar-osman/Potfolio.git}
 - to list setup instructions
 - in a simple
 - easy-to-understand
