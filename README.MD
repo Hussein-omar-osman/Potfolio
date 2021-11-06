@@ -18,7 +18,7 @@ This is a potfolia website that i have create to talk about my self like my educ
 
 ## Live link
 
-- Clink
+- link https://hussein-omar-osman.github.io/Potfolio/
 
 ## Known Bugs
 
